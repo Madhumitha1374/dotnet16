@@ -1,0 +1,53 @@
+﻿<Window x:Class="Wpf_Triggers.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_Triggers"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!--TRIGGER-->
+        <Button Content="Property Trigger" Height="50" Width="300">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="FontSize" Value="20"/>
+                    <Setter Property="Foreground" Value="HotPink"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="FontSize" Value="30"/>
+                            <!--background doesn't work for property trigger-->
+                            <Setter Property="Background" Value="Beige"/>
+                            <Setter Property="Foreground" Value="Black"/>
+                            <Setter Property="FontWeight" Value="Bold"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        
+        <!--// DATA TRIGGER-->
+        <WrapPanel Orientation="Horizontal">
+            <CheckBox x:Name="chkBox" Content="Check Me" FontSize="15" Margin="20"/>
+            <Button Content="Data Trigger" FontSize="20" Click="Button_Click">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Height" Value="30"/>
+                        <Setter Property="Width" Value="200"/>
+                        <Setter Property="FontWeight" Value="Bold"/>
+                        <Setter Property="IsEnabled" Value="False"/>
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding ElementName=chkBox, Path=IsChecked}" Value="True">
+                                <Setter Property="Background" Value="Cyan"/>
+                                <Setter Property="FontStyle" Value="Italic"/>
+                                <Setter Property="Height" Value="40"/>
+                                <Setter Property="Width" Value="250"/>
+                                <Setter Property="IsEnabled" Value="True"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+        </WrapPanel>
+    </Grid>
+</Window>

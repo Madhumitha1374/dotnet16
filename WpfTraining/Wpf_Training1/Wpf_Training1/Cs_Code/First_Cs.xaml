@@ -1,0 +1,20 @@
+﻿<Window x:Name="FirstCs_Window" x:Class="Wpf_Training1.Cs_Code.First_Cs"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_Training1.Cs_Code"
+        mc:Ignorable="d"
+        Title="First_Cs_Window" Height="450" Width="800">
+    <Grid x:Name="First_Cs_window">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="94*"/>
+            <ColumnDefinition Width="13*"/>
+            <ColumnDefinition Width="93*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="First_Btn" Content="First Button"  HorizontalAlignment="Left" Margin="262,70,0,0" VerticalAlignment="Top" Height="42" Width="160" Click="First_Btn_Click" Grid.ColumnSpan="2"/>
+        <Button Content="Second Button" HorizontalAlignment="Left" Margin="262,148,0,0" VerticalAlignment="Top" Height="41" Width="160" Click="Button_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="change_whindow_btn" Content="Change Window Title" HorizontalAlignment="Left" Margin="262,253,0,0" VerticalAlignment="Top" Height="38" Width="160" Click="Button_Click_1" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>

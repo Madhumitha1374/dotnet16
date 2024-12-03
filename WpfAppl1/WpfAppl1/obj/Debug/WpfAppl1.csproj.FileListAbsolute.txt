@@ -1,0 +1,15 @@
+D:\DotNetWorking\WpfAppl1\WpfAppl1\bin\Debug\WpfAppl1.exe.config
+D:\DotNetWorking\WpfAppl1\WpfAppl1\bin\Debug\WpfAppl1.exe
+D:\DotNetWorking\WpfAppl1\WpfAppl1\bin\Debug\WpfAppl1.pdb
+D:\DotNetWorking\WpfAppl1\WpfAppl1\obj\Debug\WpfAppl1.csproj.AssemblyReference.cache
+D:\DotNetWorking\WpfAppl1\WpfAppl1\obj\Debug\MainWindow.g.cs
+D:\DotNetWorking\WpfAppl1\WpfAppl1\obj\Debug\App.g.cs
+D:\DotNetWorking\WpfAppl1\WpfAppl1\obj\Debug\WpfAppl1_MarkupCompile.cache
+D:\DotNetWorking\WpfAppl1\WpfAppl1\obj\Debug\WpfAppl1_MarkupCompile.lref
+D:\DotNetWorking\WpfAppl1\WpfAppl1\obj\Debug\MainWindow.baml
+D:\DotNetWorking\WpfAppl1\WpfAppl1\obj\Debug\WpfAppl1.g.resources
+D:\DotNetWorking\WpfAppl1\WpfAppl1\obj\Debug\WpfAppl1.Properties.Resources.resources
+D:\DotNetWorking\WpfAppl1\WpfAppl1\obj\Debug\WpfAppl1.csproj.GenerateResource.cache
+D:\DotNetWorking\WpfAppl1\WpfAppl1\obj\Debug\WpfAppl1.csproj.CoreCompileInputs.cache
+D:\DotNetWorking\WpfAppl1\WpfAppl1\obj\Debug\WpfAppl1.exe
+D:\DotNetWorking\WpfAppl1\WpfAppl1\obj\Debug\WpfAppl1.pdb

@@ -1,0 +1,16 @@
+D:\DotNetWorking\Wpf_Triggers\Wpf_Triggers\bin\Debug\Wpf_Triggers.exe.config
+D:\DotNetWorking\Wpf_Triggers\Wpf_Triggers\bin\Debug\Wpf_Triggers.exe
+D:\DotNetWorking\Wpf_Triggers\Wpf_Triggers\bin\Debug\Wpf_Triggers.pdb
+D:\DotNetWorking\Wpf_Triggers\Wpf_Triggers\obj\Debug\Wpf_Triggers.csproj.AssemblyReference.cache
+D:\DotNetWorking\Wpf_Triggers\Wpf_Triggers\obj\Debug\MainWindow.g.cs
+D:\DotNetWorking\Wpf_Triggers\Wpf_Triggers\obj\Debug\App.g.cs
+D:\DotNetWorking\Wpf_Triggers\Wpf_Triggers\obj\Debug\Wpf_Triggers_MarkupCompile.cache
+D:\DotNetWorking\Wpf_Triggers\Wpf_Triggers\obj\Debug\Wpf_Triggers_MarkupCompile.lref
+D:\DotNetWorking\Wpf_Triggers\Wpf_Triggers\obj\Debug\MainWindow.baml
+D:\DotNetWorking\Wpf_Triggers\Wpf_Triggers\obj\Debug\Wpf_Triggers.g.resources
+D:\DotNetWorking\Wpf_Triggers\Wpf_Triggers\obj\Debug\Wpf_Triggers.Properties.Resources.resources
+D:\DotNetWorking\Wpf_Triggers\Wpf_Triggers\obj\Debug\Wpf_Triggers.csproj.GenerateResource.cache
+D:\DotNetWorking\Wpf_Triggers\Wpf_Triggers\obj\Debug\Wpf_Triggers.csproj.CoreCompileInputs.cache
+D:\DotNetWorking\Wpf_Triggers\Wpf_Triggers\obj\Debug\Wpf_Triggers.exe
+D:\DotNetWorking\Wpf_Triggers\Wpf_Triggers\obj\Debug\Wpf_Triggers.pdb
+D:\DotNetWorking\Wpf_Triggers\Wpf_Triggers\obj\Debug\Sunny\Resource.baml

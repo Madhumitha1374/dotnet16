@@ -1,0 +1,9 @@
+﻿<Application x:Class="Wpf_Training1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Wpf_Training1"
+             StartupUri="Cs_Code\First_Cs.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
